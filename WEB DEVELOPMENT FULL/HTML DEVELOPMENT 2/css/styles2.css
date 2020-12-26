@@ -1,0 +1,42 @@
+
+body{background-color:#a7c5eb;
+}
+table{
+  width:900px;
+  height:900px;
+  text-align:center;
+}
+header{
+background-color:#120078;
+Margin-left:200px;
+margin-right:200px;
+height:30px;
+font-family:Arial, Helvetica, sans-serift;
+font-size: 20px;
+color:pink;
+padding-top: 10px;
+}
+section{
+   background-color:#61b15a;
+   margin-bottom:5px;
+   margin-left:200px;
+   margin-right:200px;
+  padding-top:20px;
+   height:900px
+ }
+ DIV{
+   background-color:#d08752;
+   margin-bottom:5px;
+   margin-left:200px;
+   margin-right:200px;
+   padding-top:20px;
+   height:900px
+ }
+
+ footer{
+   background-color:GREEN;
+   margin-bottom:5px;
+   margin-left:100px;
+   margin-right:100px;
+   margin-top:5px;
+}
